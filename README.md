@@ -20,14 +20,14 @@ The sections in this repository are listed below.
 
 Below contains a brief summary about the contents in each section 
 
-* [**00_PyTorch_Fundamentals**] - Introduction to tensors, data type, data shape, and data device 
+* [**00_PyTorch_Fundamentals**](./00_PyTorch_Fundamentals) - Introduction to tensors, data type, data shape, and data device 
 
-* [**01_PyTorch_Workflow**] - Introduction to PyTorch model building by fitting a linear regression model to a set of (X, y) data points 
+* [**01_PyTorch_Workflow**](./01_PyTorch_Workflow) - Introduction to PyTorch model building by fitting a linear regression model to a set of (X, y) data points 
 
-* [**02_PyTorch_Classification**] - Development of a binary and multi classification model with nonlinearity to classify data of varying locations and colors 
+* [**02_PyTorch_Classification**](./02_PyTorch_Classification) - Development of a binary and multi classification model with nonlinearity to classify data of varying locations and colors 
 
-* [**03_PyTorch_Computer_Vision**] - Introduction to computer vision by building CNN models to classify data from the MNIST and FashionMNIST dataset 
+* [**03_PyTorch_Computer_Vision**](./03_PyTorch_Computer_Vision) - Introduction to computer vision by building CNN models to classify data from the MNIST and FashionMNIST dataset 
 
-* [**04_PyTorch_Custom_Datasets**] - Development of a CNN model to classify food data into 3 classes using a custom dataset 
+* [**04_PyTorch_Custom_Datasets**](./04_PyTorch_Custom_Datasets/) - Development of a CNN model to classify food data into 3 classes using a custom dataset 
 
-* [**06_PyTorch_Transfer_Learning**] - Implementation of EfficientNet_B0 to improve our food classification CNN model through transfer learning
+* [**06_PyTorch_Transfer_Learning**](./06_PyTorch_Transfer_Learning) - Implementation of EfficientNet_B0 to improve our food classification CNN model through transfer learning
