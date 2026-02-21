@@ -8,7 +8,7 @@ This repository contains a collection of my notes and exercises from freeCodeCam
 The sections in this repository are listed below. 
 
 | Sections | Theory | Exercises |
-| :--- | :---: | :---: | :---: |
+| :--- | :---: | :---: | 
 | **00 PyTorch Fundamentals** | [Notes](./00_PyTorch_Fundamentals/00_pytorch_fundamentals.ipynb) | [Exercises](./00_PyTorch_Fundamentals/00_pytorch_fundamentals_exercises.ipynb) | 
 | **01 PyTorch Workflow** | [Notes](./01_PyTorch_Workflow/01_pytorch_workflow.ipynb) | [Exercises](./01_PyTorch_Workflow/01_pytorch_workflow_exercises.ipynb) | 
 | **02 PyTorch Classification** | [Notes](./02_PyTorch_Classification/02_pytorch_classification.ipynb) | [Exercises](./02_PyTorch_Classification/02_pytorch_classification_exercises.ipynb) |
